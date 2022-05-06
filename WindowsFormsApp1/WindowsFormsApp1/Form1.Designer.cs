@@ -45,7 +45,7 @@ namespace WindowsFormsApp1
             this.Multiplicacion.Name = "Multiplicacion";
             this.Multiplicacion.Size = new System.Drawing.Size(100, 42);
             this.Multiplicacion.TabIndex = 0;
-            this.Multiplicacion.Text = "Multiplicacion";
+            this.Multiplicacion.Text = "Multiplicacion 25";
             this.Multiplicacion.UseVisualStyleBackColor = true;
             this.Multiplicacion.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -55,7 +55,7 @@ namespace WindowsFormsApp1
             this.Division.Name = "Division";
             this.Division.Size = new System.Drawing.Size(100, 42);
             this.Division.TabIndex = 1;
-            this.Division.Text = "Division";
+            this.Division.Text = "Division 87";
             this.Division.UseVisualStyleBackColor = true;
             this.Division.Click += new System.EventHandler(this.Division_Click);
             // 
